@@ -12,16 +12,15 @@
 - Workd for Yahoo, Alibaba, Nokia, Freewheel
 - Over **10 years** CI/CD, Devops experiences
 - Fluent English
-- Strong problem solving skills
+- Strong problem solving and communication skills
 @ulend
 @snapend
-
+* add CJE
 @snap[east span-45]
 ![IMAGE](assets/img/conference.png)
 @snapend
 
 ---
-
 ### Add Some Slide Candy
 
 ![IMAGE](assets/img/presentation.png)
