@@ -1,8 +1,37 @@
-# Eric Interview **@Started**
+# Journey **@Canva**
+
+---
+@title[Personal Info]
+
+@snap[north-west span-50 text-center]
+#### Personal Info
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+- Workd for Yahoo, Alibaba, Nokia, Freewheel
+- Over **10 years** CI/CD, Devops experiences
+- Fluent English
+- Strong problem solving skills
+@ulend
+@snapend
+
+@snap[east span-45]
+![IMAGE](assets/img/conference.png)
+@snapend
+
+@snap[south span-100 bg-black fragment]
+@img[shadow](assets/img/conference.png)
+@snapend
 
 ---
 
-# Personal Info
+
+
+
+
+
+
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
