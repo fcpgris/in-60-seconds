@@ -20,10 +20,6 @@
 ![IMAGE](assets/img/conference.png)
 @snapend
 
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
-@snapend
-
 ---
 
 ### Add Some Slide Candy
