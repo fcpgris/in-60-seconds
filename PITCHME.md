@@ -27,7 +27,16 @@
 * Unit Tests
 * Automate everything
 
+---
+### From philosophy to reality
+* Traditional pipeline
+* Container based pipeline
 
+---
+### Traditional pipeline
+
+---
+### Container based pipeline
 
 ---
 ### Add Some Slide Candy
