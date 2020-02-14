@@ -21,14 +21,14 @@
 @snapend
 
 ---
-### DevOps Spirit I believed
+### **DevOps Spirit I believed**
 * Make it a **Culture**
 * AF(Fast)AP
 * Unit Tests
 * Automate everything
 
 ---
-### From philosophy to reality
+### From **Philosophy** to **Reality**
 * Traditional pipeline
 * Container based pipeline
 
