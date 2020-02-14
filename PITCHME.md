@@ -21,10 +21,11 @@
 @snapend
 
 ---
-### title
-* item1
-* item2
-* item3
+### DevOps Spirit I believed
+* Make it a **Culture**
+* AF(Fast)AP
+* Unit Tests
+* Automate everything
 
 
 
